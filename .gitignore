@@ -1,0 +1,10 @@
+.stack-work/
+dist/
+*.hi
+*.o
+*.swp
+*.bak
+*.tmp
+*.vscode
+~*
+

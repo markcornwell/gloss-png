@@ -1,0 +1,4 @@
+/Users/mark/gloss-png-test/gloss-png-test/package.yaml: Ignoring unrecognized field $.executables.gloss-png-test-exe.data-files
+Loaded image format:
+  Format: Unknown
+Error: Image is not in RGBA8 format
